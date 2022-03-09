@@ -6,7 +6,7 @@ public class CalculateAverage {
       for (int number: array) {
         sum += number;
       }
-      String test = "test";
+      
       return sum / length;
     }
   }
